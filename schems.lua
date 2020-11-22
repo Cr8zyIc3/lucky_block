@@ -170,11 +170,11 @@ local wishing_well = {
 		fwd,air,fwd,
 		slb,slb,slb,
 
-		stb,wbl,stb,
+		stb,stb,stb,
 		sbr,wat,sbr,
 		air,air,air,
 		air,air,air,
-		slb,gla,slb,
+		slb,slb,slb,
 
 		stb,stb,stb,
 		sbr,sbr,sbr,
